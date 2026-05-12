@@ -81,7 +81,7 @@ Clean and modern music player interface with animations.
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Sanhik-Ghosh">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
