@@ -1,112 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e293b&text=Sanhik%20Ghosh&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Frontend%20Developer%20•%20Creative%20Designer%20•%20Tech%20Learner&descAlignY=60&animation=fadeIn"/>
+# 👋 Hey, I'm Sanhik Ghosh
 
-<br>
+### 🚀 Aspiring Developer • Creative Thinker • Tech Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Creative+Digital+Experiences;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Learning+%2B+Building+Everyday+🚀;Future+Full-Stack+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Learning+Web+Development+🌐;Future+Full-Stack+Developer+💻;Building+Projects+and+Skills+🚀;Always+Curious+to+Learn+✨" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌟 About Me
 
-```javascript
+```js
 const sanhik = {
-  role: "Frontend Developer",
-  learning: ["JavaScript", "React", "UI/UX", "Python"],
-  passions: [
-    "Modern Web Design",
-    "Creative Development",
-    "Responsive Websites",
-    "User Experience"
-  ],
-  currentGoal: "Building premium and modern web projects 🚀",
-  motto: "Code. Create. Improve. Repeat."
+  location: "India 🇮🇳",
+  currentlyLearning: ["HTML", "CSS", "JavaScript"],
+  futureGoals: ["React", "Backend Development", "Full-Stack"],
+  hobbies: ["Coding", "Designing", "Music", "Gaming"],
+  mindset: "Consistency beats perfection 💯"
 };
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚒️ Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📚 Current Journey
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanhikGhosh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanhikGhosh&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
+- 🌱 Learning frontend development
+- 🎨 Exploring UI/UX design
+- 💻 Building beginner-friendly projects
+- 🚀 Improving coding consistency every day
 
 ---
 
-# 🔥 Contribution Streak
+# 📌 Featured Demo Projects
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SanhikGhosh&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-# 🌌 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanhikGhosh&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description |
+| 🚀 Project | 📄 Description |
 |---|---|
-| 🌐 Portfolio Website | Personal developer portfolio with modern UI |
-| 🛒 E-Commerce UI | Responsive shopping website frontend |
-| 🎵 Music Player | Stylish music player interface with animations |
-| 📱 Landing Pages | Modern responsive landing page designs |
+| Portfolio Website | Personal responsive portfolio design |
+| Weather App | Simple weather app using API |
+| Music Player UI | Modern animated music player |
+| To-Do App | Daily task manager using JavaScript |
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanhikGhosh&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanhikGhosh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+# 🔥 GitHub Streak
 
 <div align="center">
 
-```txt
-✔ Advanced JavaScript
-✔ React.js
-✔ UI/UX Principles
-✔ Responsive Web Design
-✔ Git & GitHub
-```
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SanhikGhosh&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+<img src="https://streak-stats.demolab.com?user=SanhikGhosh&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -128,28 +92,14 @@ const sanhik = {
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📈 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SanhikGhosh&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-## ✨ “Dream big. Build bigger.” ✨
+### ✨ “Every pro developer started as a beginner.” ✨
 
-<img src="https://user-images.githubusercontent.com/74038190/212750118-1f5d58b2-f3cf-4c34-8b28-d2b9d4e8a7cb.gif" width="700"/>
+<img src="https://komarev.com/ghpvc/?username=SanhikGhosh&label=Profile+Views&color=0ea5e9&style=flat" />
 
 </div>
