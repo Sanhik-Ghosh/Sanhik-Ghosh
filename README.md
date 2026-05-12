@@ -1,105 +1,95 @@
+# Hi there 👋, I'm Sanhik Ghosh
+
 <div align="center">
 
-# 👋 Hey, I'm Sanhik Ghosh
-
-### 🚀 Aspiring Developer • Creative Thinker • Tech Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Learning+Web+Development+🌐;Future+Full-Stack+Developer+💻;Building+Projects+and+Skills+🚀;Always+Curious+to+Learn+✨" />
+### 🚀 Passionate Learner | Future Full-Stack Developer | Tech Explorer
 
 </div>
 
 ---
 
-# 🌟 About Me
+## 🌟 About Me
 
-```js
-const sanhik = {
-  location: "India 🇮🇳",
-  currentlyLearning: ["HTML", "CSS", "JavaScript"],
-  futureGoals: ["React", "Backend Development", "Full-Stack"],
-  hobbies: ["Coding", "Designing", "Music", "Gaming"],
-  mindset: "Consistency beats perfection 💯"
-};
-```
+- 🎓 Student & self-taught coding enthusiast  
+- 💻 Currently learning **Web Development & Programming**
+- 🌱 Exploring **JavaScript, React, Python, and UI Design**
+- ⚡ Interested in building cool websites and creative projects
+- 🎯 Goal: Become a skilled developer and create impactful products
+- 📚 Learning step by step every single day
 
 ---
 
-# ⚒️ Skills
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
-</div>
-
----
-
-# 📚 Current Journey
-
-- 🌱 Learning frontend development
-- 🎨 Exploring UI/UX design
-- 💻 Building beginner-friendly projects
-- 🚀 Improving coding consistency every day
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 📌 Featured Demo Projects
+## 📈 GitHub Stats
 
-| 🚀 Project | 📄 Description |
-|---|---|
-| Portfolio Website | Personal responsive portfolio design |
-| Weather App | Simple weather app using API |
-| Music Player UI | Modern animated music player |
-| To-Do App | Daily task manager using JavaScript |
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanhikGhosh&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanhikGhosh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🚀 Current Goals
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SanhikGhosh&theme=tokyonight&hide_border=true" />
-
-</div>
+- 🔥 Improve problem-solving skills
+- 🌐 Build responsive websites
+- ⚛️ Learn React.js
+- 🧠 Practice coding consistently
+- 📦 Create beginner-friendly projects
 
 ---
 
-# 🌐 Connect With Me
+## 📌 Featured Projects
 
-<div align="center">
+### 🌟 Portfolio Website
+A modern personal portfolio showcasing my journey and projects.
 
-<a href="https://github.com/SanhikGhosh">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+### 🛒 Mini E-Commerce UI
+Responsive shopping website frontend using HTML, CSS & JavaScript.
+
+### 🎵 Music Player UI
+Clean and modern music player interface with animations.
+
+---
+
+## 🎧 Hobbies & Interests
+
+- 🎵 Listening to music
+- 🎨 UI/UX Design
+- 📷 Editing & creative visuals
+- 🎮 Gaming
+- 📚 Learning new tech
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ✨ “Every pro developer started as a beginner.” ✨
-
-<img src="https://komarev.com/ghpvc/?username=SanhikGhosh&label=Profile+Views&color=0ea5e9&style=flat" />
+### ✨ “Every expert was once a beginner.” ✨
 
 </div>
