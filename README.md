@@ -1,95 +1,131 @@
-# Hi there 👋, I'm Sanhik Ghosh
-
 <div align="center">
 
-### 🚀 Passionate Learner | Future Full-Stack Developer | Tech Explorer
+# ⚡ Sanhik Ghosh ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Full-Stack+Developer;Creative+Frontend+Designer;Learning+Something+New+Everyday;Building+My+Coding+Journey+🚀" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750118-1f5d58b2-f3cf-4c34-8b28-d2b9d4e8a7cb.gif" width="700">
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 🧠 About Me
 
-- 🎓 Student & self-taught coding enthusiast  
-- 💻 Currently learning **Web Development & Programming**
-- 🌱 Exploring **JavaScript, React, Python, and UI Design**
-- ⚡ Interested in building cool websites and creative projects
-- 🎯 Goal: Become a skilled developer and create impactful products
-- 📚 Learning step by step every single day
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+```js
+const sanhik = {
+    location: "India 🇮🇳",
+    learning: ["JavaScript", "React", "UI/UX", "Python"],
+    interests: ["Web Development", "Creative Coding", "Design"],
+    goal: "Become a Professional Developer 🚀",
+    mindset: "Learn • Build • Improve • Repeat"
+};
+```
 
 ---
 
-## 📈 GitHub Stats
+# ⚒️ Tech Stack
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+
+</div>
 
 ---
 
-## 🚀 Current Goals
+# 📊 GitHub Analytics
 
-- 🔥 Improve problem-solving skills
-- 🌐 Build responsive websites
-- ⚛️ Learn React.js
-- 🧠 Practice coding consistently
-- 📦 Create beginner-friendly projects
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanhikGhosh&show_icons=true&theme=tokyonight&border_radius=15" />
 
-## 📌 Featured Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanhikGhosh&layout=compact&theme=tokyonight&border_radius=15" />
 
-### 🌟 Portfolio Website
-A modern personal portfolio showcasing my journey and projects.
-
-### 🛒 Mini E-Commerce UI
-Responsive shopping website frontend using HTML, CSS & JavaScript.
-
-### 🎵 Music Player UI
-Clean and modern music player interface with animations.
+</div>
 
 ---
 
-## 🎧 Hobbies & Interests
+# 🔥 GitHub Streak
 
-- 🎵 Listening to music
-- 🎨 UI/UX Design
-- 📷 Editing & creative visuals
-- 🎮 Gaming
-- 📚 Learning new tech
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SanhikGhosh&theme=tokyonight&border_radius=15" />
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🚀 Current Focus
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<div align="center">
+
+| 💻 Learning | 🎯 Building | 🌱 Improving |
+|---|---|---|
+| JavaScript | Modern Websites | Problem Solving |
+| React.js | UI Projects | Consistency |
+| Frontend Dev | Portfolio Projects | Clean Code |
+
+</div>
+
+---
+
+# 🌌 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanhikGhosh&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SanhikGhosh&theme=tokyonight&row=1&column=6" />
+
+</div>
+
+---
+
+# 🎵 Currently Vibing To
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31v6f5s7example&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/SanhikGhosh">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ “Every expert was once a beginner.” ✨
+## ✨ “Small progress each day adds up to big results.” ✨
+
+<img src="https://komarev.com/ghpvc/?username=SanhikGhosh&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
